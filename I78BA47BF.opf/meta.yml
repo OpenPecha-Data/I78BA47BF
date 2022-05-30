@@ -1,0 +1,25 @@
+id: I78BA47BF
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T20:38:06.337259'
+last_modified: '2022-05-30T20:38:06.337276'
+parser: null
+source_metadata:
+  title: Dzong-ngön Pema Tukchok Dorje
+  language: bo
+  description: 'Texts by and about Dzong-ngön Pema Tukchok Dorje (rdzong sngon padma
+    thugs mchog rdo rje), the incarnation of Dola Jigme Kalzang:'
+  volume:
+    fF31F:
+      title: A Simple Method of Transference for Helpless Animals
+      base_file: fF31F.txt
+      order: 1
+      parent: Transference
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
